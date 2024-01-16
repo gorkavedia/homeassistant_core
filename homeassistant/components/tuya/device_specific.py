@@ -10,5 +10,8 @@ DEVICE_SPECIFIC_INT_BASE: dict[str, dict[str, int]] = {
 
     # Royal Apex WiFi Thermostat
     "N8bUqOZ8HBQjU0K0": {"base_value": 2, "base_step": 10}
+
+    # BEOK TGP55 Smart Thermostat
+    "bf3662995c04a7982crdpo": {"base_value": 2, "base_step": 10}
     # Add more devices below
 }
